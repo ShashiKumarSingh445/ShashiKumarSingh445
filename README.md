@@ -1,3 +1,4 @@
+![logo](https://github.com/ShashiKumarSingh445/ShashiKumarSingh445/blob/main/WhatsApp%20Image%202025-07-05%20at%2017.48.04_200eeda6.jpg)
 <h1 align="center">Hi 👋, I'm Shashi Kumar Singh </h1>
 <h3 align="center">A Passionate Java Developer From India</h3>
 <img align="right" alt="coding "width="400" src="https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg">
